@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @rmtkazizi
-- 👀 I’m interested in data scientist
-- 🌱 I’m currently learning data science (programming and anlysis data)
-- 💞️ I’m looking to collaborate on business intelligence
+ I’m learning data science with a focus on programming and data analysis. I’m interested in business intelligence and open to collaboration. This GitHub serves as one of my portfolios to showcase my learning journey and projects.
 - 📫 How to reach me -> rahmatiaazizi@.gmail.com or linkedin.com/in/rahmatika-azizi/
 
 <!---
